@@ -1,4 +1,3 @@
-layout_spectrum: 0.14229644532315433
 typography_spectrum: 0.614570849807933
 color:
   brandStrength: 0.6098207761533558
@@ -11,4 +10,6 @@ color:
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
+layout_spectrum: 0.14229644532315433
 name: raffmix.com
+description: technology is just a to to express creativity
