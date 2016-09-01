@@ -12,16 +12,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.5632832
+  saturation: 0.7086466
   brandStrength: 0.6098207761533558
-  lightness: 0.2098998
+  lightness: 0
   brandColors:
     - '#E1E6FA'
     - '#C4D7ED'
     - '#ABC8E2'
     - '#375D81'
     - '#183152'
-  rhythmicContrast: 0.4035088
+  rhythmicContrast: 1
 typography_spectrum: 0.1522556
 description: technology is just a to to express creativity
 layout_spectrum: 1
